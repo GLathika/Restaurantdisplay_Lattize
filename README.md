@@ -3,7 +3,13 @@
 Welcome to **Lattize Food Ordering**, a simple and stylish food ordering web page that showcases a restaurant menu with a visually appealing design. Enjoy a seamless browsing experience with animations, gradients, and a modern UI. 🚀
 
 ---
+## 🚀 Live Demo
 
+Click below to view the live output:
+
+<a href="https://glathika.github.io/minor/" target="_blank">
+    <img src="https://img.shields.io/badge/🍽️ VIEW DEMO-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
 ## 🌟 Features
 
 ✅ **Beautiful Header** – Eye-catching title with a tagline.  
@@ -23,13 +29,7 @@ Welcome to **Lattize Food Ordering**, a simple and stylish food ordering web pag
 
 ---
 
-## 🚀 Live Demo
 
-Click below to view the live output:
-
-<a href="https://yourusername.github.io/lattize-food-ordering/" target="_blank">
-    <img src="https://img.shields.io/badge/🍽️ VIEW DEMO-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
-</a>
 
 ---
 
@@ -47,8 +47,8 @@ Click below to view the live output:
 ---
 
 ## 📸 UI Preview
+![Uploading image.png…]()
 
-![Preview](https://your-image-link.com)
 
 ---
 
